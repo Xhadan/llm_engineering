@@ -1,1 +1,1 @@
-This project is my implementation of the LLM Engineering Course."
+This project is my implementation of the LLM Engineering Course.
